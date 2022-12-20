@@ -1,0 +1,12 @@
+# Site settings
+title:       'Maintainance Initiative for Ada code'
+email:
+description: 'Community Site'
+url:         'https://the-MIA.github.io'
+baseurl:
+twitter_username:
+github_username:  jquorning
+
+# Build settings
+markdown: kramdown
+permalink: pretty
