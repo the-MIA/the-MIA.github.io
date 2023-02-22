@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Index - MIA
+title: MIA
 ---
 
 Maintainance Initiative for Ada code
---
+----
+
